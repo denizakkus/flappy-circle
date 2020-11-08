@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 425814d5abdf8cd42a1a5efd4617d465
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - poolableTypePrefabMap: {fileID: 11400000, guid: 5c67ea7060afc534f973a7cac8573d69,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
